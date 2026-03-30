@@ -1,1 +1,1 @@
-# estrategia-ecommerce-notebookLM
+# python-iniciante-notebookLM
