@@ -1,1 +1,1 @@
-# estrat-gia-ecommerce-notebookLM
+# estrategia-ecommerce-notebookLM
